@@ -5,7 +5,7 @@ import guide from "./guide.jfif";
 import CSS from "./CSS.jfif";
 import TS from "./typescript.jfif";
 
-export default function Color({ id, title, image, rating, onRate = (f) => f }) {
+export default function Book({ id, title, image, rating, onRate = (f) => f }) {
   return (
     <section>
       <h1>{title}</h1>
