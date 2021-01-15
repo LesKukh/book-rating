@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "title": "JavaScript: The Definitive Guide",
+    "image": "guide",
+    "rating": 5
+  },
+  {
+    "id": "2",
+    "title": "CSS in Depth",
+    "image": "CSS",
+    "rating": 3
+  },
+  {
+    "id": "3",
+    "title": "Programming TypeScript",
+    "image": "TS",
+    "rating": 0
+  }
+]
